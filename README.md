@@ -21,7 +21,7 @@ A working URL shortener (Flask + Redis), built as a progressive DevOps project. 
 
 ## Roadmap
 - [x] Phase 1 — Containerized app (Flask + Redis, Docker, Compose, tests)
-- [ ] Phase 2 — CI/CD with GitHub Actions
+- [x] Phase 2 — CI/CD with GitHub Actions
 - [ ] Phase 3 — Infrastructure as Code (Terraform)
 - [ ] Phase 4 — Deploy to AWS
 - [ ] Phase 5 — Kubernetes
