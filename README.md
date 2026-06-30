@@ -38,8 +38,8 @@ Built hands-on, phase by phase, to learn the full DevOps stack.
 - [x] **Phase 3 — Infrastructure as Code.** Terraform provisions resources (developed and validated against LocalStack).
 - [x] **Phase 4 — CD.** Pipeline builds the Docker image and publishes it to GitHub Container Registry on every green build.
 - [x] **Phase 5 — Kubernetes.** Deployed to a K8s cluster with multiple replicas, load balancing, self-healing, and horizontal scaling.
-- [ ] **Phase 6 — Observability.** Metrics and dashboards with Prometheus + Grafana.
-- [ ] **Phase 7 — DevSecOps.** Image scanning, secret scanning, and secure pipelines.
+- [x] **Phase 6 — Observability.** Metrics and dashboards with Prometheus + Grafana.
+- [x] **Phase 7 — DevSecOps.** Image scanning, secret scanning, and secure pipelines.
 
 ---
 
